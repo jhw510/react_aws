@@ -1,0 +1,13 @@
+.t-notice-font-size25{font-size: 25px}
+.t-notice-height300{height: 300px}
+.t-notice-width130{width: 130px}
+.t-notice-width100{width: 100px}
+.t-notice-width90{width: 90px}
+.t-notice-color-grey{color: grey}
+.t-notice-margin0{margin: 0px auto}
+.t-notice-textAlign-center{text-align: center}
+.t-notice-selectbox {
+    width: 130px; /* 원하는 너비설정 */
+    padding: .5em .5em; /* 여백으로 높이 설정 */
+    border: 0px solid #999;
+}

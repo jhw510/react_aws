@@ -1,0 +1,221 @@
+.s_class_card1{
+    padding-bottom: 20px;
+}
+
+.s_class_container1{
+    position: relative;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    min-width: 1000px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: initial;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    height: 60px;
+}
+
+
+.s_class_name{
+    font-size: 20px;
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+
+.s_class_container{
+    width: 100%;
+}
+
+
+.s_class_timetable_frame{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    padding-bottom: 20px;
+    min-width: 600px;
+}
+
+.s_class_timetable{
+    transform: translateX(5%);
+}
+
+.s_class_calendar{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 10px;
+}
+
+.s_class_col_left{
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+}
+
+.s_class_clock{
+    padding-left: 15px;
+    padding-top: 12px;
+    flex:1;
+    float: left;
+    font-size: 15px;
+    font-weight: bolder;
+    color: #009007;
+    text-shadow: 0px 10px 15px  rgba(0, 0, 0, 0.04);
+}
+
+.s_class_datepicker{
+    float: right !important;
+    margin-top: 7px;
+
+}
+
+
+
+.s_class_tr{
+    margin-top: 15px;
+}
+
+.s_class_time1{
+    margin-top: 15px;
+    float: left;
+    width: 40px;
+}
+
+.s_class_time{
+    margin-top: 15px;
+    float: left;
+    width: 100px;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.s_class_td{
+    width: 40px;
+    height: 60px;
+    font-size: 20px;
+}
+.s_class_td_sub{
+    width: 100px;
+    height: 100%;
+}
+
+
+.s_class_list{
+    padding: 0px !important;
+    width: 100%;
+    height: 70px !important;
+}
+
+
+.s_class_col_right{
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+}
+.s_class_detail{
+
+}
+
+.s_class_title{
+    text-align: left;
+}
+
+.s_class_btn{
+    margin-top: 20px;
+    height: 40px;
+    width: 400px;
+    border : solid 2px #6fb327;
+    background-color: #1c7430;
+    color: #ffffff;
+    margin-left: 18%;
+    margin-bottom: 10px;
+
+}
+.s_class_h4{
+    color: #0e3e19;
+}
+
+.s_class_sub{
+    font-size: 15px;
+    text-align: left;
+    padding-left: 20px;
+
+}
+
+.s_class_subtime{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 10px;
+}
+
+
+.s_class_scroll{
+    margin-top: 30px;
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 30px;
+}
+
+.s_class_scroll2{
+    border : solid 2px #6fb327;
+    border-radius: .75rem;
+    margin-bottom: 30px;
+}
+
+.s_class_counter{
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.s_class_detail_con{
+    height: 500px;
+}
+.s_class_detail_header{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.s_class_detail_file{
+    padding-left: 20px;
+    border : solid 2px #a5c685;
+    border-radius: .75rem;
+    margin: 20px 20px 20px 20px;
+}
+
+.s_class_detail_file_txt1{
+    float: left;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 15px;
+}
+
+.s_class_detail_file_txt2{
+    float: right;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.s_class_detail_main{
+    height: 300px;
+    width: 96.5%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border : solid 2px #a5c685;
+    border-radius: .75rem;
+}
+
+.s_class_Listbtn{
+    margin-top: 7px;
+    margin-right: 10px;
+    float: right;
+}

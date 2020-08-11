@@ -1,0 +1,56 @@
+.LocalTotal-h5{
+  margin-right: 20px;
+  float: left;
+  
+}
+
+#userLocal-select{
+ float: left;
+}
+.userLocal-Total{
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+.LocalTotal-h6{
+  text-align: center;
+}
+.LocalTotalJoin-h6{
+  margin-top: 20px;
+  text-align: center;
+}
+
+.localTotal-genderDoughnut{
+  width: 50%;
+  float: left;
+  flex:1;
+
+}
+
+.localTotal-ageBar{
+  width: 50%;
+  float: left;
+  flex:1;
+}
+
+.parent{
+  display: flex;
+}
+
+.userTotal-div{
+  margin-top: 40px;
+}
+
+.userTotal-data{
+  float: left;
+}
+
+.userTotal-button{
+  margin-left: 10px;
+  height: 35px;
+}
+
+.userJoin-chart{
+  width: 50%;
+  
+}

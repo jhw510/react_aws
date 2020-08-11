@@ -1,0 +1,12 @@
+.counter {
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    margin-left: 8.5rem;
+    float: left;
+  }
+  
+  .counter > p {
+    margin-right: 20px;
+    text-align: center;
+  }

@@ -1,0 +1,60 @@
+.detail_index{
+    width : 16%;
+    height : 450px;
+    background-color: tomato;
+    float : left;
+}
+.detail_list{
+    width: 80%;
+    height : 450px;
+    background-color: violet;
+}
+.detail_icon{
+    width : 7%;
+    height : 7%;
+    opacity: 0.6;
+    float : right;
+    margin : 1.5rem;
+}
+.detail_align{
+    display: flex;
+    align-items: center;
+}
+.detail_border{
+    border : solid 1px #ced4da;
+}
+.detail_pointer{
+    cursor: pointer;
+}
+.detail_margin{
+    margin : 0.3rem;
+    padding : 0.2rem;
+}
+.detail_overflow{
+    overflow: scroll;
+}
+.detail_title{
+    width : 96%;
+    height : 7%;
+    margin : 0.5rem;
+}
+.detail_content{
+    width : 96%;
+    height : 50%;
+    margin : 0.5rem;
+
+}
+.subjectbox_container{
+    width : 100%
+}
+.detailno_container{
+    width : 18%;
+    background-color: yellow;
+}
+.detail_list{
+    padding: 0.5rem 1rem;
+    margin-bottom: .5rem;
+    background-color: transparent;
+    width : 100%;
+    cursor: move
+}
